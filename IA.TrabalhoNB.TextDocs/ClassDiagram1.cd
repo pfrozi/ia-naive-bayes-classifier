@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IA.TrabalhoNB.TextDocs.ClassDoc">
+    <Position X="10" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAACQAAAAAAAAAAAAIgAQAKoAEAAIBAAAAAA=</HashCode>
+      <FileName>ClassDoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IA.TrabalhoNB.TextDocs.ClassficationNB">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiEAQAAAEAAAABAABABAAAAQQAAAAAAAAACAAAAhA=</HashCode>
+      <FileName>ClassficationNB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IA.TrabalhoNB.TextDocs.ClassificationResult" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAFAAAABAAAEAAAABQAAAAUAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassificationResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IA.TrabalhoNB.TextDocs.Consts" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Consts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IA.TrabalhoNB.TextDocs.Resources" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IA.TrabalhoNB.TextDocs.StopWords" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAABAAAEAAAAAAAAgAgA=</HashCode>
+      <FileName>StopWords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IA.TrabalhoNB.TextDocs.ClassficationNBSetResults">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAIAAA=</HashCode>
+      <FileName>SubSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IA.TrabalhoNB.TextDocs.TextDoc">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAQgAAIAIAACAQAgAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextDoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IA.TrabalhoNB.TextDocs.Vocabulary">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Vocabulary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

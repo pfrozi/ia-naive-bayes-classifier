@@ -1,0 +1,53 @@
+﻿Drop Table Classifications;
+Create Table Classifications(
+    id_Classifications    bigint,
+    Description           nvarchar(240),
+    constraint pk_id_Classifications primary key(
+        id_Classifications
+    )
+);
+
+Drop Table Classes;
+Create Table Classes(
+    id_Class              bigint,
+    id_Classifications    bigint,
+    Description           nvarchar(240),
+    constraint pk_id_Class primary key(
+        id_Class
+    )
+);
+
+Drop Table Files;
+Create Table Files(
+    id_File               bigint,
+    id_Classifications    bigint,
+    id_Class              bigint,
+    Description           nvarchar(240),
+    Path                  nvarchar(max),
+    constraint pk_id_File primary key(
+        id_File
+    )
+);
+
+Drop Table Words;
+Create Table Words(
+    id_Word               bigint,
+    id_Classifications    bigint,
+    Word                  nvarchar(240),
+    constraint pk_id_Word primary key(
+        id_Word
+    )
+);
+
+Drop Table FileWords;
+Create Table FileWords(
+    id_FileWord           bigint,
+    id_Classifications    bigint,
+    id_Word               bigint,
+    id_File               bigint,
+    id_Class              bigint,
+    constraint pk_id_FileWord primary key(
+        id_FileWord
+    )
+);
+

@@ -1,0 +1,6 @@
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Data\bin\Debug\db_files\trabalho-ia-NB.sdf
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Data\bin\Debug\IA.TrabalhoNB.Data.dll
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Data\bin\Debug\IA.TrabalhoNB.Data.pdb
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Data\obj\Debug\IA.TrabalhoNB.Data.csprojResolveAssemblyReference.cache
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Data\obj\Debug\IA.TrabalhoNB.Data.dll
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Data\obj\Debug\IA.TrabalhoNB.Data.pdb

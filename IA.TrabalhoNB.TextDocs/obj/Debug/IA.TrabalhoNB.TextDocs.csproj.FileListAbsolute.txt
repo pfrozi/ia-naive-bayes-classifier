@@ -1,0 +1,7 @@
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.TextDocs\bin\Debug\IA.TrabalhoNB.TextDocs.dll
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.TextDocs\bin\Debug\IA.TrabalhoNB.TextDocs.pdb
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.TextDocs\obj\Debug\IA.TrabalhoNB.TextDocs.dll
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.TextDocs\obj\Debug\IA.TrabalhoNB.TextDocs.pdb
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.TextDocs\obj\Debug\IA.TrabalhoNB.TextDocs.Resources.resources
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.TextDocs\obj\Debug\IA.TrabalhoNB.TextDocs.csproj.GenerateResource.Cache
+C:\Users\PFROZI\Documents\Visual Studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.TextDocs\obj\Debug\IA.TrabalhoNB.TextDocs.csprojResolveAssemblyReference.cache

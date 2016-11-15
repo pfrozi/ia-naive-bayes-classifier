@@ -1,0 +1,8 @@
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\trabalho-ia-NB\obj\x86\Debug\IA.TrabalhoNB.UI.Form1.resources
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\trabalho-ia-NB\obj\x86\Debug\IA.TrabalhoNB.UI.Properties.Resources.resources
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\trabalho-ia-NB\obj\x86\Debug\IA.TrabalhoNB.UI.csproj.GenerateResource.Cache
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\trabalho-ia-NB\bin\Debug\IA.TrabalhoNB.UI.exe
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\trabalho-ia-NB\bin\Debug\IA.TrabalhoNB.UI.pdb
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\trabalho-ia-NB\obj\x86\Debug\IA.TrabalhoNB.UI.exe
+c:\users\pfrozi\documents\visual studio 2010\Projects\trabalho-ia-NB\trabalho-ia-NB\obj\x86\Debug\IA.TrabalhoNB.UI.pdb
+C:\Users\PFROZI\Documents\Visual Studio 2010\Projects\trabalho-ia-NB\trabalho-ia-NB\obj\x86\Debug\IA.TrabalhoNB.UI.csprojResolveAssemblyReference.cache

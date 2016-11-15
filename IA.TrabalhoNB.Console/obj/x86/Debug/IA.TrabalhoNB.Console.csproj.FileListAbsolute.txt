@@ -1,0 +1,9 @@
+C:\Users\PFROZI\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Console\obj\x86\Debug\IA.TrabalhoNB.Console.csprojResolveAssemblyReference.cache
+C:\Users\PFROZI\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Console\bin\Debug\IA.TrabalhoNB.Console.exe
+C:\Users\PFROZI\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Console\bin\Debug\IA.TrabalhoNB.Console.pdb
+C:\Users\PFROZI\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Console\bin\Debug\IA.TrabalhoNB.TextDocs.dll
+C:\Users\PFROZI\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Console\bin\Debug\IA.TrabalhoNB.TextDocs.pdb
+C:\Users\PFROZI\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Console\obj\x86\Debug\IA.TrabalhoNB.Console.exe
+C:\Users\PFROZI\documents\visual studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Console\obj\x86\Debug\IA.TrabalhoNB.Console.pdb
+F:\Visual Studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Console\obj\x86\Debug\IA.TrabalhoNB.Console.exe
+F:\Visual Studio 2010\Projects\trabalho-ia-NB\IA.TrabalhoNB.Console\obj\x86\Debug\IA.TrabalhoNB.Console.pdb
